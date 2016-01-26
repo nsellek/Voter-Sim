@@ -1,6 +1,6 @@
 class World
   attr_accessor :politicians, :voters, :play
-
+# great job
   def initialize
     @politicians = []
     @voters = []
